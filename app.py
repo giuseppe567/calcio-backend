@@ -49,16 +49,4 @@ def get_matches():
 
 if __name__ == '__main__':
     app.run()
-```
 
-Clicca **"Commit new file"** in fondo alla pagina.
-
----
-
-### File 2 — `requirements.txt`
-Clicca di nuovo **"Add file" → "Create new file"**, nome `requirements.txt`:
-```
-flask
-flask-cors
-requests
-gunicorn
